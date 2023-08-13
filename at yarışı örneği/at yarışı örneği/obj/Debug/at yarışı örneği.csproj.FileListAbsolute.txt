@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\bin\Debug\at yarışı örneği.exe.config
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\bin\Debug\at yarışı örneği.exe
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\bin\Debug\at yarışı örneği.pdb
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\obj\Debug\at yarışı örneği.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\obj\Debug\at_yarışı_örneği.Form1.resources
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\obj\Debug\at_yarışı_örneği.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\obj\Debug\at yarışı örneği.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\obj\Debug\at yarışı örneği.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\obj\Debug\at yarışı örneği.exe
+C:\Users\Lenovo\source\repos\at yarışı örneği\at yarışı örneği\obj\Debug\at yarışı örneği.pdb
